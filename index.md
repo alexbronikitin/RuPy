@@ -1,5 +1,5 @@
 ## RuPy
 
-```python
-print("Hello World!")
+```markdown
+вывод('Привет, RuPy')
 ```
